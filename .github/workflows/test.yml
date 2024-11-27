@@ -9,4 +9,4 @@
       steps:
       - uses: actions/checkout@v3
       - name: All test
-        run: bash -xv ./soinsu.py
+        run: python3 ./soinsu.py
