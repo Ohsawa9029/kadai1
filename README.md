@@ -1,6 +1,5 @@
 # kadai1
 ## soinsu.py
-![test](https://github.com/Ohsawa9029/kadai1/blob/main/.github/workflows/test.yml/badge.svg)
 このプログラムは2以上の自然数を打ち込むとそれの素因数分解の結果を表示します。
 1以下の整数を入力すると'2以上の自然数を入力してください。'と表示されます。
 また、このプログラムは引数が一つの時に実行されるため引数が二つ以上の際には'引数は一つだけ指定してください'と表示されます。
